@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nath229
+- 👋 Hi, I’m UTPAL
 - 👀 I’m interested in Machine Learning,Data Science and full stack Web development.
 - 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on Data science.
